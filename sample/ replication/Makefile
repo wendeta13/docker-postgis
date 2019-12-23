@@ -1,4 +1,4 @@
-up:
+up:sample/replication/tests/replication_test_master.sh
 	docker-compose up -d
 
 down:
